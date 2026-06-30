@@ -24,7 +24,7 @@ A modern Full Stack Habit Tracker application that helps users build consistency
 ## Frontend
 - HTML5
 - CSS3
-- JavaScript
+- Typescript
 - Vite
 
 ## Backend
@@ -42,7 +42,7 @@ A modern Full Stack Habit Tracker application that helps users build consistency
 # 📂 Project Structure
 
 ```
-Habit-Tracker
+ Run-Routine
 │
 ├── Frontend
 │   ├── public

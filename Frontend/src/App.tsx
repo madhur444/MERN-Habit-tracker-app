@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div><h1>Habbit Tracker</h1></div>
+    <div><h1>Run Routine</h1></div>
   )
 }
 
